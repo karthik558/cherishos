@@ -1257,6 +1257,12 @@ span:hover {
   visibility: hidden;
 }
 
+@media  (max-width: 767px) {
+  .mouse-cursor {
+    display: none;
+  }
+}
+
 .cursor-inner {
   width: 6px;
   height: 6px;
@@ -8189,8 +8195,7 @@ footer .item .copy-right p a {
 
   .navbar .navbar-collapse {
     max-height: 340px;
-    overflow: auto;
-    background: #111215;
+    overflow: auto;     
     text-align: center;
     display: block !important;
     opacity: 0;
