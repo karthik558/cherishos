@@ -1,0 +1,90 @@
+.blog-crv .item {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.block-sec .testim-box .slick-dots li button {
+  display: block;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+.slider .social-icon a {
+  margin: 0 3px;
+}
+.navbar .navbar-nav .nav-link,
+.video .vid .vid-butn .icon,
+.video-wrapper .vid .vid-butn .icon {
+  cursor: pointer;
+}
+.block-sec .vid-area {
+  z-index: 99;
+}
+.div-tooltip-tit,
+.div-tooltip-sub {
+  display: block;
+  padding: 0;
+}
+section.testimonials {
+  overflow: hidden;
+}
+.contact-page .pages-header {
+    overflow: hidden;
+}
+div#ieatmaps iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+button.nb {
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+button.nb:hover {
+  background: #fff;
+  color: #222;
+}
+.replay {
+  cursor: pointer;
+}
+
+.pace-done #preloader:after {
+  bottom: 0;
+}
+#preloader {
+      top: 0;
+    left: 0;;
+}
+
+.pace-done #preloader {
+  visibility: hidden;
+  -webkit-transition-delay: 1.5s;
+  -o-transition-delay: 1.5s;
+  transition-delay: 1.5s;
+}
+.pace-done #preloader:after,
+.pace-done #preloader:before {
+  height: 0;
+  -webkit-transition: all 0.7s cubic-bezier(1, 0, 0.55, 1);
+  -o-transition: all 0.7s cubic-bezier(1, 0, 0.55, 1);
+  transition: all 0.7s cubic-bezier(1, 0, 0.55, 1);
+  -webkit-transition-delay: 1s;
+  -o-transition-delay: 1s;
+  transition-delay: 1s;
+}
+body.hideX #preloader {
+  display: none !important;
+  z-index: -1111111;
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+body.hideX .pace {
+  display: none !important;
+  background-color: transparent;
+}
+.app-footer .social a {
+  margin-right: 4px;
+}

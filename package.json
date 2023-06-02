@@ -1,0 +1,33 @@
+{
+  "name": "cherishos",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "formik": "^2.2.9",
+    "next": "12.0.4",
+    "react": "17.0.2",
+    "react-circular-progressbar": "^2.0.4",
+    "react-countup": "^6.1.0",
+    "react-dom": "17.0.2",
+    "react-modal-video": "^1.2.8",
+    "react-scroll": "^1.8.4",
+    "react-slick": "^0.28.1",
+    "react-tsparticles": "^1.37.4",
+    "react-visibility-sensor": "^5.1.1",
+    "sass": "^1.45.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^7.3.0",
+    "typewriter-effect": "^2.18.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4"
+  }
+}
