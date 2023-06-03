@@ -1257,7 +1257,7 @@ span:hover {
   visibility: hidden;
 }
 
-@media  (max-width: 767px) {
+@media  (max-width: 600px) {
   .mouse-cursor {
     display: none;
   }
@@ -8194,7 +8194,7 @@ footer .item .copy-right p a {
   }
 
   .navbar .navbar-collapse {
-    max-height: 340px;
+    max-height: 340px;    
     overflow: auto;     
     text-align: center;
     display: block !important;
@@ -8202,7 +8202,7 @@ footer .item .copy-right p a {
     transition: all 0.3s linear;
     height: 0;
     padding: 0;
-    transform-origin: top;
+    transform-origin: top;    
   }
 
   .navbar .nav-link {
