@@ -1,16 +1,12 @@
 import React from "react";
 import Head from "next/head";
 import DarkTheme from "../layout/Dark";
-import NavBar from "../components/NavBar/navbar";
-import Header from "../components/Header/header";
-import Features from "../components/Features/features";
-import Screenshots from "../components/Screenshots/screenshots";
-import Collaborate from "../components/Collaborate/collaborate";
-import Teams from "../components/Teams/Teams";
+import PageHeader from "../components/HeaderDownload/header-download";
+import NavBar from "../components/DownloadNavBar/navbar";
 import Footer from "../components/Footer/footer";
-import FAQ from "../components/Faq/faq";
+import DownloadHome from "../components/Download/download-home";
 
-const Home = () => {
+const Download = () => {
   const navbarRef = React.useRef(null);
   React.useEffect(() => {
     var navbar = navbarRef.current;
@@ -37,17 +33,23 @@ const Home = () => {
       </Head>
       <DarkTheme mobileappstyle>
         <NavBar nr={navbarRef} />
-        <Header />
         <div className="circle-blur"></div>
-        <Features />
-        <Screenshots />        
-        <Teams />
-        <Collaborate />
-        <FAQ />
-        <Footer />        
-      </DarkTheme>      
+        <PageHeader       
+          title="Downloads"
+          // links={[
+          //   { id: 1, name: "Home", url: "/" },
+          //   {
+          //     id: 2,
+          //     name: "Download",
+          //     url: "/download/",
+          //   },
+          // ]}
+        />    
+        <DownloadHome />
+        <Footer />
+      </DarkTheme>
     </>
   );
 };
 
-export default Home;
+export default Download;

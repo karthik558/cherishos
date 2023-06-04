@@ -17,7 +17,7 @@ const Index = () => {
                 wealth of features and a visually stunning user interface.
               </p>
               <div className="butons mt-40">
-                <a href="https://downloads.cherishos.com/" className="butn-gr rounded buton">
+                <a href="download" className="butn-gr rounded buton">
                   <span>Download</span>
                 </a>
               </div>

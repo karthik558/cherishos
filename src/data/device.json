@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "img": "/img/device-list/zmpm1.jpg",
+    "tag": "Asus",
+    "info": {
+      "title": "Asus Zenfone Max Pro M1",
+      "dev_code": "X00TD"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 2,
+    "img": "/img/device-list/opn.jpg",
+    "tag": "Oneplus",
+    "info": {
+      "title": "OnePlus Nord",
+      "dev_code": "NULL"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 3,
+    "img": "/img/device-list/op8.jpg",
+    "tag": "Oneplus",
+    "info": {
+      "title": "OnePlus 8 Pro",
+      "dev_code": "instantnoodlep"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 4,
+    "img": "/img/device-list/r3pro.jpg",
+    "tag": "Realme",
+    "info": {
+      "title": "Realme 3 Pro",
+      "dev_code": "RMX1851"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 5,
+    "img": "/img/device-list/r8.jpg",
+    "tag": "Realme",
+    "info": {
+      "title": "Realme 8",
+      "dev_code": "Nashc"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 6,
+    "img": "/img/device-list/r95g.jpg",
+    "tag": "Realme",
+    "info": {
+      "title": "Realme 9 SE 5G",
+      "dev_code": "RMX3461"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 7,
+    "img": "/img/device-list/r5.jpg",
+    "tag": "Realme",
+    "info": {
+      "title": "Realme 5 Series",
+      "dev_code": "RMX1911"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 8,
+    "img": "/img/device-list/rxt.jpg",
+    "tag": "Realme",
+    "info": {
+      "title": "Realme XT",
+      "dev_code": "RMX1921"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 9,
+    "img": "/img/device-list/f1.jpg",
+    "tag": "Poco",
+    "info": {
+      "title": "Poco F1",
+      "dev_code": "beryllium"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 10,
+    "img": "/img/device-list/f2p.jpg",
+    "tag": "Poco",
+    "info": {
+      "title": "Poco F2 Pro",
+      "dev_code": "lmi"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 11,
+    "img": "/img/device-list/k40s.jpg",
+    "tag": "Poco",
+    "info": {
+      "title": "Poco F4/Redmi K40S",
+      "dev_code": "munch"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 12,
+    "img": "/img/device-list/x2.jpg",
+    "tag": "Poco",
+    "info": {
+      "title": "Poco X2",
+      "dev_code": "phoenix"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 13,
+    "img": "/img/device-list/5p.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi Note 5/5 Plus",
+      "dev_code": "vince"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 14,
+    "img": "/img/device-list/5pro.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi Note 5 Pro",
+      "dev_code": "whyred"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 15,
+    "img": "/img/device-list/7pro.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi Note 7 Pro",
+      "dev_code": "violet"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 16,
+    "img": "/img/device-list/rn8.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi Note 8/8T",
+      "dev_code": "ginkgo"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 17,
+    "img": "/img/device-list/rn8pro.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi Note 8 Pro",
+      "dev_code": "begonia"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 18,
+    "img": "/img/device-list/rn10.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi Note 10",
+      "dev_code": "mojito"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 19,
+    "img": "/img/device-list/rn10p.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi Note 10 Pro",
+      "dev_code": "sweet"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 20,
+    "img": "/img/device-list/rn11.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi Note 11 /Note 11 NFC",
+      "dev_code": "NFC"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 21,
+    "img": "/img/device-list/r9t.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi 9T / Poco M3",
+      "dev_code": "chime"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 22,
+    "img": "/img/device-list/r8a.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi 7A/8/8A/8A Dual",
+      "dev_code": "Mi439"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 23,
+    "img": "/img/device-list/m115g.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Mi 11 Lite 5G NE",
+      "dev_code": "lisa"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 24,
+    "img": "/img/device-list/m11.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Mi 11",
+      "dev_code": "venus"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 25,
+    "img": "/img/device-list/k20.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi K20",
+      "dev_code": "davinci"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 26,
+    "img": "/img/device-list/k20p.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi K20 Pro",
+      "dev_code": "raphael"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 27,
+    "img": "/img/device-list/k30.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi K30 5G",
+      "dev_code": "picasso"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 28,
+    "img": "/img/device-list/k40.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Redmi K40/Poco M11X/Poco F3",
+      "dev_code": "alioth"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 29,
+    "img": "/img/device-list/m11p.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Xiaomi 11 pro",
+      "dev_code": "mars"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 30,
+    "img": "/img/device-list/ma2.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Xiaomi Mi A2",
+      "dev_code": "A2"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 31,
+    "img": "/img/device-list/ma3.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "Xiaomi Mi A3",
+      "dev_code": "A3"
+    },
+    "downloadLink": "https://example.com/download1"
+  },
+  {
+    "id": 32,
+    "img": "/img/device-list/mi9se.jpg",
+    "tag": "Redmi",
+    "info": {
+      "title": "MI 9 SE",
+      "dev_code": "grus"
+    },
+    "downloadLink": "https://example.com/download1"
+  }
+]

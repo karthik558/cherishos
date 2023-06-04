@@ -59,42 +59,42 @@ const Screenshots = () => {
                 >
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
-                      <div className="img">
+                      <div className="screenshot">
                         <img src="/img/screenshots/1.png" alt="" />
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
-                      <div className="img">
+                      <div className="screenshot">
                         <img src="/img/screenshots/2.png" alt="" />
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
-                      <div className="img">
+                      <div className="screenshot">
                         <img src="/img/screenshots/3.png" alt="" />
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
-                      <div className="img">
+                      <div className="screenshot">
                         <img src="/img/screenshots/4.png" alt="" />
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
-                      <div className="img">
+                      <div className="screenshot">
                         <img src="/img/screenshots/5.png" alt="" />
                       </div>
                     </div>
                   </SwiperSlide>
                   <SwiperSlide className="swiper-slide">
                     <div className="item">
-                      <div className="img">
+                      <div className="screenshot">
                         <img src="/img/screenshots/6.png" alt="" />
                       </div>
                     </div>
